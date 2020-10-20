@@ -1,2 +1,2 @@
 # The-Butcher
-Unity yardımıyla C# ile yazılmış bir mobil uygulama. 
+A mobile game app is coded in C# with Unity3D.
